@@ -1,2 +1,3 @@
 rootProject.name = 'MultiThreadingZuev'
+include 'producer_consumer_v1'
 
